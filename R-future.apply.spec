@@ -4,7 +4,7 @@
 #
 Name     : R-future.apply
 Version  : 1.9.0
-Release  : 5
+Release  : 6
 URL      : https://cran.r-project.org/src/contrib/future.apply_1.9.0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/future.apply_1.9.0.tar.gz
 Summary  : Apply Function to Elements in Parallel using Futures
